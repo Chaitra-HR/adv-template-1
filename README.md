@@ -1,1 +1,2 @@
-# adv-template-1
+# Site Structure
+
